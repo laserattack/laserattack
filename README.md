@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 My name is serr/laserattack. I'm currently a cybersecurity major at university.
 
