@@ -4,11 +4,11 @@ My name is serr (you can easily guess my real name if you speak Russian 😄). I
 
 You can find me at:
 
-• [hikan.ru](https://hikan.ru/)
+- [hikan.ru](https://hikan.ru/)
 
-• [GitHub](https://github.com/laserattack)
+- [GitHub](https://github.com/laserattack)
 
-• [Telegram](https://t.me/semaphoreslover)
+- [Telegram](https://t.me/semaphoreslover)
 
-• [Mastodon](https://mastodon.ml/@serr)
+- [Mastodon](https://mastodon.ml/@serr)
 
