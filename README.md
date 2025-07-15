@@ -1,6 +1,6 @@
 ## Hi 👋
 
-🤠 My name is serr/laserattack. I'm currently a cybersecurity major at university.
+🤠 My name is serr/laserattack. I'm currently a cybersecurity major at university
 
 You can find me at:
 
