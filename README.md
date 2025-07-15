@@ -10,4 +10,4 @@ You can find me at:
 
 🤠 Repository mirrors are [here](https://codeberg.org/laserattack). Synchronization is implemented using [paranoia](https://github.com/laserattack/paranoia)
 
-The high number of contributions on certain days comes from a repository where I back up my Obsidian notes
+_The high number of contributions on certain days comes from a repository where I back up my Obsidian notes_
